@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Malware Development and Research <br><br>🌱 I’m currently learning Malware Development<br>💬 Ask me about random facts<br>⚡ Fun fact: there is a hidden message in one of my repos 
-
+🔭 I’m currently working on Malware Development and Research.<br><br>🌱 I’m currently learning Malware Development.<br>💬 Ask me about random facts.<br>⚡ Fun fact: there is a hidden message in one of my repos.
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCRhDbsL4-L-5Q6DH-89lsSA) 
